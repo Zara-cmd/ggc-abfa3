@@ -31,6 +31,4 @@ relatedPosts = false
 code_copy_button = true
 
   [[menu.main]]
-  name = 'TeamSpeak³'
-  identifier = "TeamSpeak³"
-  url = 'ts3server://ts3.ggc.lol?port=9987'
+  name = 'TeamSpeak³: ts3.ggc.lol'
