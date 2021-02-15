@@ -31,5 +31,5 @@ relatedPosts = false
 code_copy_button = true
 
   [[menu.main]]
-  name = "<a href="ts3server://ts3.hoster.com?port=9987">Click to connect to my</a>TeamSpeak³"
+  name = '<a href="ts3server://ts3.hoster.com?port=9987">Click to connect to my</a>TeamSpeak³'
   identifier = "TeamSpeak³"
