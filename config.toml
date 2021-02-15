@@ -30,11 +30,7 @@ justifyContent = false
 relatedPosts = false
 code_copy_button = true
 
-  [[params.social]]
-  name = "TeamSpeak³"
-  url = "ts3server://93.186.201.106?port=9987"
-
   [[menu.main]]
-  name = "GitHub"
-  identifier = "GitHub"
-  url = "http://github.com/petschau/WinFellow"
+  name = "TeamSpeak³"
+  identifier = "TeamSpeak³"
+  url = "ts3server://93.186.201.106?port=9987"
