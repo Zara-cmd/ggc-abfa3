@@ -31,15 +31,5 @@ relatedPosts = false
 code_copy_button = true
 
   [[params.social]]
-  name = "teamspeak"
+  name = "TeamSpeak³"
   url = "ts3server://93.186.201.106?port=9987"
-
-[[menu.main]]
-name = "TeamSpeak³"
-url = "ts3server://93.186.201.106?port=9987"
-weight = 10
-
-[[menu.main]]
-name = "About"
-url = "about-hugo/"
-weight = 20
