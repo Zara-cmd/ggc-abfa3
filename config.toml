@@ -35,8 +35,8 @@ code_copy_button = true
   url = "ts3server://93.186.201.106?port=9987"
 
 [[menu.main]]
-name = "Posts"
-url = "posts/"
+name = "TeamSpeak³"
+url = "ts3server://93.186.201.106?port=9987"
 weight = 10
 
 [[menu.main]]
