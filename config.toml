@@ -34,6 +34,7 @@ code_copy_button = true
   name = "TeamSpeak³"
   url = "ts3server://93.186.201.106?port=9987"
 
-  [[params]]
-  name = "TeamSpeak³"
-  url = "ts3server://93.186.201.106?port=9987"
+  [[menu.main]]
+  name = "GitHub"
+  identifier = "GitHub"
+  url = "http://github.com/petschau/WinFellow"
